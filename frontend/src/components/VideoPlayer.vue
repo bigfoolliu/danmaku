@@ -2,10 +2,10 @@
   <div class="video-player">
     <div class="player-wrapper">
       <video ref="videoRef" controls>
-        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+        <source src="https://www.w3schools.com/tags/mov_bbb.mp4" type="video/mp4">
         您的浏览器不支持视频播放
       </video>
-      
+
       <vue-danmaku
         ref="danmakuRef"
         class="danmaku-layer"
