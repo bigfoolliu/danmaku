@@ -2,7 +2,7 @@
   <div class="video-player">
     <div class="player-wrapper">
       <video ref="videoRef" controls>
-        <source src="https://www.w3schools.com/tags/mov_bbb.mp4" type="video/mp4">
+        <source src="https://vod.pipi.cn/fe5b84bcvodcq1251246104/658e4b085285890797861659749/f0.mp4" type="video/mp4">
         您的浏览器不支持视频播放
       </video>
 
